@@ -23,7 +23,7 @@
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy - September 2016 to December 2016
 
 <!-- - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,8 +32,10 @@
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha -->
 
-#### Your University / College (start_date to end_date)
+#### University of Leicester - September 2011 to September 2015
 
+BA Archaeology and Ancient History - 2:1
+MA Archaeology
 <!-- - Subject, any specialisms
 - Grade
 - Other cool stuff -->
