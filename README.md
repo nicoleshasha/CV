@@ -31,7 +31,7 @@ I'm a creative individual and love to make things. I like to paint, cross stitch
 
 I specialised in Prehistoric Archaeology in my Masters degree. I enjoyed studying archaeology, as its multifaceted levels made me well rounded in interests and abilities, as well as developing my aforementioned social skills and analytical ability.
 
-### Why I want to be a software developer
+# Why I want to be a software developer
 
 After graduating, I wanted to go into a career path that I found fulfilling.
 I wanted a job that did something to help people, while also being interesting and exciting, while also being challenging in a satisfying way. While archaeology is fascinating, I thought it was limited in its ability to help people, create and develop new things. I have always loved video games, and for me they epitomise the mixture of creativity and logic that can be achieved with code. After graduating from Makers Academy I feel this even more. For me, the feeling when all of my tests are passing and my programme is doing what it's meant to is one of the most satisfying things I can imagine.
