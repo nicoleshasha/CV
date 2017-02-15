@@ -19,6 +19,7 @@ I'm a creative individual and love to make things. I like to paint, cross stitch
 
 - Self motivated and independent learning
 - Pair programming
+- Agile practices
 - OOP, TDD
 - Learning industry best practices and code craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js, Java
